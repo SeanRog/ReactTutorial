@@ -8,7 +8,7 @@ const App = () => {
   );
 
   return <div>Latitude: </div>;
-}
+};
 
 ReactDOM.render(
   <App />,
